@@ -1,1 +1,3 @@
 This folder is for Ben and Bert to work on our generation/sorting algorithms.
+
+You can keep your GUI, we prefer the magic.
